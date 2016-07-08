@@ -1,5 +1,6 @@
 # graph_algorithms
-language : Python 3.0, \n
+language : Python 3.0, 
+
 file_structure : graph/* , algorithms/*
 
 -- This is a repository that shall contain the following :
