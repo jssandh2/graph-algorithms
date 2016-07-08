@@ -1,8 +1,8 @@
-graph_algorithms
-language : Python 3.0
+# graph_algorithms
+language : Python 3.0, \\n
 file_structure : graph/* , algorithms/*
 
-/* -- This is a repository that shall contain the following :
+-- This is a repository that shall contain the following :
 i) Implementation of the Graph, Vertex and Edge Classes
 ii) Implementation of Shortest-Path (Djikstra & Bellman-Ford), All pairs Shortest-Path (Floyd-Warshall) Algorithms
 iii) Implementation of 2 Minimum Spanning Tree Algorithms (Kruskal & Prim)
