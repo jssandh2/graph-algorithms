@@ -3,9 +3,9 @@
 # Language:
 -- Python 3.0
 
-# File_Structure:
+# File Structure:
  i)  ```graph/*``` -- Implementation of the Vertex, Edge & Graph classes with appropriate Data-Structures
- 
+
  ii) ```algorithms/*``` -- Implementation of the Algorithms that utilize the Graph objects from ```graph/Graph.py```
 
 # Purpose:
@@ -22,7 +22,7 @@ iv) Implementation of a 2-partite-ness predictor (Predicts whether a Graph is Bi
 v) Implementation of Matching Algorithms
 
 
-# RUNNING INSTRUCTIONS:
+# Running Instructions:
 i) First, clone the repo: ``` git clone git@github.com:jssandh2/graph_algorithms.git ```
 
 ii) You can instantiate new Graph Classes by adding a ```main``` method in ```Graph.py```. Example:
