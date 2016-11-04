@@ -4,9 +4,9 @@
 -- Python 3.0
 
 # File Structure:
-*  ```graph/*``` -- Implementation of the Vertex, Edge & Graph classes with appropriate Data-Structures
+*  ```src/graph/*``` -- Implementation of the Vertex, Edge & Graph classes with appropriate Data-Structures
 
-* ```algorithms/*``` -- Implementation of the Algorithms that utilize the Graph objects from ```graph/Graph.py```
+* ```src/algorithms/*``` -- Implementation of the Algorithms that utilize the Graph objects from ```src/graph/Graph.py```
 
 # Purpose:
 -- This is a repository that shall contain the following :
