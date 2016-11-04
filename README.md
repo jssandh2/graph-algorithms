@@ -1,14 +1,14 @@
-# Graph_Algorithms
+# Graph Algorithms
 
-# Language:
+## Language:
 -- Python 3.0
 
-# File Structure:
+## File Structure:
 *  ```src/graph/*``` -- Implementation of the Vertex, Edge & Graph classes with appropriate Data-Structures
 
 * ```src/algorithms/*``` -- Implementation of the Algorithms that utilize the Graph objects from ```src/graph/Graph.py```
 
-# Purpose:
+## Purpose:
 -- This is a repository that shall contain the following :
 
 * Implementation of the ```Graph```, ```Vertex``` and ```Edge``` Classes
@@ -22,7 +22,7 @@
 * Implementation of *Matching* Algorithms
 
 
-# Running Instructions:
+## Running Instructions:
 * Clone the repo: ``` git clone git@github.com:jssandh2/graph_algorithms.git ``` in a suitable local directory.
 
 * You can instantiate new Graph Classes by adding a ```main``` method in ```Graph.py```. Example:
