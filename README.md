@@ -28,7 +28,7 @@
 * You can instantiate new Graph Classes by adding a ```main``` method in ```Graph.py```. Example:
 ```Python
 if __name__ == "__main__":
-    graph_a = Graph(["a", "b", "c", "d"], [["a","b",3], ["b", "d"], ["d", "a", 2], ["a", "c", 5]])
+    graph_a = Graph(["a", "b", "c", "d"], [["a", "b", 3], ["b", "d"], ["d", "a", 2], ["a", "c", 5]])
     graph_a.add_vertex("e")
     graph_a.add_edge(["b", "e", 6])
 ```
