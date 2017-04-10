@@ -3,7 +3,7 @@
 ## Language
 * Python 3.0
 
-## Link to Repository
+## Repository
 * [graph-algorithms](https://github.com/jssandh2/graph_algorithms)
 
 ## File Structure
